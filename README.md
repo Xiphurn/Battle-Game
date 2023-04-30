@@ -6,7 +6,7 @@ This repository contains a simple text-based battle game implemented in Python. 
 Python 3.x
 
 ## Usage
-To play the game, run the " battle_game.py script " :
+To play the game, run the " battle_game.py " script :
 
 During each turn, you will be prompted to either attack the enemy or take a potion:
 
